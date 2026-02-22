@@ -11,7 +11,7 @@ El sistema implementa un pipeline reproducible que integra:
 
 ---
 
-# Estructura del proyecto
+## Estructura del proyecto
 
 01_build_dataset.py  
 Construcción del dataset procesado y generación de variables derivadas.
@@ -33,7 +33,7 @@ Aplicación de técnicas de minería de datos (afinidad, cohorts, ABC).
 
 ---
 
-# Requisitos
+## Requisitos
 
 Python 
 
@@ -47,7 +47,7 @@ Librerías principales:
 
 ---
 
-# Uso
+## Uso
 
 Ejecutar los scripts en orden:
 
@@ -57,7 +57,7 @@ Ejecutar los scripts en orden:
 
 ---
 
-# Contexto académico
+## Contexto académico
 
 Repositorio asociado al Trabajo Final de Máster en Business Analytics.
 
